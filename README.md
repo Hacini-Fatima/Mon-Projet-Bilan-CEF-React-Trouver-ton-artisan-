@@ -54,3 +54,6 @@ Lier ton PC au dépôt GitHub vide
 `git branch -m initial`
 
 `git push -u origin initial`
+
+`git status`
+
