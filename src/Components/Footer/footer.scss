@@ -1,0 +1,39 @@
+.App-footer {
+    background-color: var(--primary-color);
+
+    h1 {
+        color: var(--principal-color);
+    }
+
+    p {
+        color: var(--principal-color);
+    }
+
+    .footer-logo {
+        background-color: var(--principal-color);
+        width: 15rem;
+    }
+
+    .div-logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        @media (max-width: 767.98px) {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+        }
+    }
+.autres-infos{
+    background-color: var(--secondary-color);
+}
+
+.ul-pages {
+    display: flex;
+    justify-content: space-evenly;
+
+    .pages-mention {
+        color: var(--principal-color);
+        }
+    }
+}
