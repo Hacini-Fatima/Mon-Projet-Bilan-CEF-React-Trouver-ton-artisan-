@@ -1,0 +1,17 @@
+.img-fiche {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .artisan-img {
+    width: 100%;
+    height: 30rem;
+  }
+}
+
+.artisan-infos,
+.artisan-form {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
